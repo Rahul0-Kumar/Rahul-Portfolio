@@ -20,13 +20,13 @@ I'm a Rahul, I am aspiring  Web Developer &amp; love to do coding.I have been wo
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS....
+Javascript, HTML, CSS...
 
 
 ## Screenshots
-
-
 ![Screenshot (26)](https://github.com/Rahul0-Kumar/Rahul-Portfolio/assets/157640152/6fb9db12-b01a-4520-a5ff-18f708d3ed1d)
+
+
 
 
 
